@@ -8,3 +8,11 @@ Teams can release/work on features of the software in little increments instead 
 Cons: 
 
 One con is that it’s harder to tell the total time a team will spend on a project because of that constant feedback. Another con is something called “scope creep”, which means that since the goal is flexible, it can expand to be much larger than the original goal of the project, which means more time spent on the project and more money on resources. 
+
+Explain the role and responsibilities of the Scrum Master vs the Product Owner
+
+The product owner represents the voices of the customer and the stake holders. They help define the goal for a specific project, they are responsible for the priority of things in the backlog so that it lines up with what is the most important for customers. They also make sure that feedback from customers about the product goes into stories, as well as accept or reject completed work when sprint reviews come around. 
+
+
+
+The scrum master is the person facilitating the team. They make sure that the team is following the agile methodology and that they’re making progress. They aid their team n multiple ways, like daily stand ups, planning for a sprint and then reflecting on the sprint. They help train the team to follow so that they can be self organized and adhere to scrum principles, as well as remove any distractions for the team. 
