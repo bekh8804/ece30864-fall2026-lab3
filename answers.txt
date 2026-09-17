@@ -16,3 +16,17 @@ The product owner represents the voices of the customer and the stake holders. T
 
 
 The scrum master is the person facilitating the team. They make sure that the team is following the agile methodology and that they’re making progress. They aid their team n multiple ways, like daily stand ups, planning for a sprint and then reflecting on the sprint. They help train the team to follow so that they can be self organized and adhere to scrum principles, as well as remove any distractions for the team. 
+
+What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+
+Sprint Planning:
+
+The product owner clears up the most important item in the backlog for the team to work on and the team has to create a clear goal on how to address it. The team has to evaluate their own capacity, and then decide on a specific goal as to how to build and complete the item.
+
+Daily Standup:
+
+The team updates the rest of its member the progress they’ve made since they’ve last met. This is also the meeting where the team lets the other members know of any blockers that they’ve had working on the project and what they’re planning on completing today. 
+
+Sprint Review:
+
+This is where the team showcases the completed work/features to the product owner at the end of the sprint. They also receive feedback and plan to make anyy revisions, as well as decide whether it can be a priority in the backlog for future sprints. 
