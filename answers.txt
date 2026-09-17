@@ -30,3 +30,7 @@ The team updates the rest of its member the progress theyâ€™ve made since theyâ€
 Sprint Review:
 
 This is where the team showcases the completed work/features to the product owner at the end of the sprint. They also receive feedback and plan to make anyy revisions, as well as decide whether it can be a priority in the backlog for future sprints. 
+
+Differentiate between Epic, Story, Bug, and Task issue types in JIRA
+
+Epic is a longterm initiative, and an overarching goal that can take week to months. While a story is a short feature centered initiative from the prospective of an end user, typically can be completed within that sprint. A task is a generic piece of work to be done, it is usually technical or background work. Lastly, a bug is an issue meant to track an error in code or unexpected behavior from the product. 
